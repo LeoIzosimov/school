@@ -1,11 +1,11 @@
 **Используемые технологии**
-1. Spring Boot - фреймворк для управления фреймворками Spring
-2. Spring Security - фреймворк контроля доступа
-3. JPA Repository - интерфейс фреймворка Spring Data для работы с БД
-4. Vaadin - фреймворк для создания веб-приложений
-5. JUnit - фреймворк для модульного тестирования
-6. REST API - архитектурный стиль взаимодействия компонентов распределенного приложения в сети
-7. JSON - формат передачи структурированной информации
-8. PostgreSQL - база данных
-9. Swagger API (OpenAPI 3.0) - фреймворк для создания документации RESTfull API
+1. Spring Boot 
+2. Spring Security 
+3. JPA Repository 
+4. Vaadin 
+5. JUnit
+6. REST API 
+7. JSON 
+8. PostgreSQL 
+9. Swagger API (OpenAPI 3.0)
 
